@@ -11,7 +11,7 @@ I build secure, scalable Web APIs and database-driven applications with C#, ASP.
 - 🎓 B.Sc. in Computer Science, Nahda University in Beni Suef — GPA 3.6 (Very Good with Honors)
 - 💻 9-Month Professional Training Program (Web & UI) at ITI — 2025 to Present
 - 🏆 Full Stack .NET Web Developer graduate, Digital Egypt Pioneers Initiative (DEPI)
-- 🥇 ECPC Finalist and former ICPC problem-solving instructor
+- 🥇 ECPC Finalist
 - 🧩 Freelance developer on Mostaql, building backend systems and Shopify stores
 - 🌱 Passionate about clean, maintainable code, SOLID principles, and continuous learning
 - 📍 Based in Egypt | Military Status: Exempted
