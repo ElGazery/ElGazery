@@ -1,6 +1,6 @@
 # Hi, I'm Kareem Mahmoud Ahmed 👋
 
-### Back-End .NET Developer
+### Software Developer | Full-Stack .NET
 
 I build secure, scalable Web APIs and database-driven applications with C#, ASP.NET Core, Entity Framework Core, and SQL Server. Currently sharpening my full-stack skills at ITI, with real-world freelance experience delivering backend systems and e-commerce platforms.
 
