@@ -18,8 +18,8 @@ From authentication and payments to caching and inventory control, I focus on ba
 ## 🚀 About Me
 
 - 🎓 B.Sc. in Computer Science, Nahda University (Beni Suef), GPA 3.6, Very Good with Honors
-- 💻 ITI 9-Month Professional Training Program, 2025 to present
-- 🏆 Full Stack .NET graduate, Digital Egypt Pioneers Initiative (DEPI)
+- 💻 ITI 9-Month Professional Training Program, 2025 to 2026 (intake 46)
+- 🏆 Full Stack .NET graduate, Digital Egypt Pioneers Initiative (DEPI) 2025
 - 🥇 ECPC Finalist
 - 🧩 Freelance developer on Mostaql, delivering backend systems and e-commerce platforms
 - 🌱 Passionate about clean, maintainable code, SOLID principles and continuous learning
@@ -94,8 +94,6 @@ flowchart LR
 
 `.NET 10` `C#` `EF Core` `SQL Server` `Redis` `Stripe` `MediatR` `JWT`
 
-### 🏋️ GymApp Backend
-RESTful API built with .NET, SQL Server, JWT Authentication, Clean Architecture, Repository Pattern and EF Core.
 
 ### 🎮 Gaming & Digital Services Store
 Full-stack platform for game top-ups and digital services using React.js, Node.js and MongoDB, deployed on Hostinger.
